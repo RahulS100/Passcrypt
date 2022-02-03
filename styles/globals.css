@@ -1,0 +1,36 @@
+/* Global Styling */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* paddings */
+.padding10 {
+  padding: 10px;
+}
+
+.padding15 {
+  padding: 15;
+}
+
+.padding20 {
+  padding: 20px;
+}
+
+.padding25 {
+  padding: 25px;
+}
+
+/* margins */
+.marginT2 {
+  margin-top: 2px;
+}
+
+.marginT10 {
+  margin-top: 10px;
+}
+
+.marginB10 {
+  margin-bottom: 10px;
+}
